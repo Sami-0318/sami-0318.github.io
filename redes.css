@@ -1,0 +1,55 @@
+body{background-image:url("redes.jpg");}
+
+nav{float: left;}
+nav ul {  list-style-type: none;}
+nav li { display: inline;  padding: 20px; }
+nav ul li a {color:#b03a2e ;}
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 15px;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+nav ul li a:hover {
+    text-decoration: underline;
+}
+
+
+
+div{background-color:#f561d1;border: 1px solid black;width:830px; height: 260px;border-width:2px;
+    text-align:left;
+   
+    }
+	.body {
+  margin-top:30px;
+  display:flex;
+  gap:2%; 
+}
+
+
+.caja2{background-image:url("fonve.jpeg");background-color:#ccd1d1 ;border: 1px solid black;width:830px; height: 260px;border-width:2px;
+    text-align:left;}
+.caja3{background-image:url("hor.jpeg");background-color:#aeb6bf ;border: 1px solid black;width:830px; height: 260px;border-width:2px;
+    text-align:left;}
+.caja4{background-color:#d2b4de ;width:830px; height: 1100px;
+   }
+
+   .pie{width:830px; 
+ height: 60px;}
+ 
+ .pie p {
+   margin: 0;
+  font-size: 10px;
+
+
+
